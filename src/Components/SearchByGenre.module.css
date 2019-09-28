@@ -1,6 +1,14 @@
-
-
-/* .jumbotron
+.font
 {
-    background-color:violet; 
-} */
+    font-family: 'Montserrat', sans-serif;
+}
+
+.align
+{
+    margin-left: 30px;
+}
+
+.align_button
+{
+    text-align: center;
+}
